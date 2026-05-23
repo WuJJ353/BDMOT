@@ -60,7 +60,7 @@ Unzip the provided .zip file, you will get
 - [QuarkDrive](https://pan.quark.cn/s/92355ce3627b?pwd=ArZM)
 
 ## Contact 
-This dataset is provide by [Prof. Luo Jiangtao @CQUPT](https://faculty.cqupt.edu.cn/luojt/zh_CN/index/15127/list/index.htm), Chongqing, China.
+This dataset is provided by [Prof. Luo Jiangtao @CQUPT](https://faculty.cqupt.edu.cn/luojt/zh_CN/index/15127/list/index.htm), Chongqing, China.
 
 - [JET LUO](https://jiangtaoluo.github.io/HomePage/)
 
